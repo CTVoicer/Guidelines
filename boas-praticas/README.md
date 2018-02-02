@@ -4,9 +4,9 @@
 
 ## Sumário
 
-- [CSS](./boas-praticas/CSS)
-- [Git](./boas-praticas/git)
-- [Javascript](./boas-praticas/javascript)
-- [PHP](./boas-praticas/php)
+- [CSS](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/CSS)
+- [Git](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/git)
+- [Javascript](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/javascript)
+- [PHP](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/php)
 
-[[⬅ Voltar para Guias]](../)
+[[⬅ Voltar para Guias]](https://github.com/VictorOtavio/Guidelines)

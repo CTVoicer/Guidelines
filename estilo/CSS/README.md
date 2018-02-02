@@ -10,7 +10,7 @@
 - [Organização](#organiza%C3%A7%C3%A3o)
 - [Referências](#refer%C3%AAncias)
 
-[[⬅ Voltar para Estilo]](../estilo)
+[[⬅ Voltar para Estilo]](https://github.com/VictorOtavio/Guidelines/tree/master/estilo)
 
 ## Formatação
 

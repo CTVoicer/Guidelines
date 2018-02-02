@@ -30,22 +30,22 @@ Para isso basta instalar o plugin feito para o editor que você usa:  [Atom](htt
 
 ## Sumário
 
-- [Estilo](./estilo)
-    - [Geral](./estilo/geral)
-    - [CSS](./estilo/CSS)
-    - [Javascript](./estilo/javascript)
-    - [PHP](./estilo/PHP)
+- [Estilo](https://github.com/VictorOtavio/Guidelines/tree/master/estilo)
+    - [Geral](https://github.com/VictorOtavio/Guidelines/tree/master/estilo/geral)
+    - [CSS](https://github.com/VictorOtavio/Guidelines/tree/master/estilo/CSS)
+    - [Javascript](https://github.com/VictorOtavio/Guidelines/tree/master/estilo/javascript)
+    - [PHP](https://github.com/VictorOtavio/Guidelines/tree/master/estilo/PHP)
 
-- [Boas práticas](./boas-praticas)
-    - [CSS](./boas-praticas/CSS)
-    - [Git](./boas-praticas/git)
-    - [Javascript](./boas-praticas/javascript)
-    - [PHP](./boas-praticas/php)
+- [Boas práticas](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas)
+    - [CSS](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/CSS)
+    - [Git](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/git)
+    - [Javascript](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/javascript)
+    - [PHP](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/php)
 
-- [Ferramentas](./ferramentas)
-    - [Geral](./ferramentas#geral)
-    - [Front-end](./ferramentas#front-end)
-    - [Back-end](./ferramentas#back-end)
+- [Ferramentas](https://github.com/VictorOtavio/Guidelines/tree/master/ferramentas)
+    - [Geral](https://github.com/VictorOtavio/Guidelines/tree/master/ferramentas#geral)
+    - [Front-end](https://github.com/VictorOtavio/Guidelines/tree/master/ferramentas#front-end)
+    - [Back-end](https://github.com/VictorOtavio/Guidelines/tree/master/ferramentas#back-end)
 
 ## Créditos
 

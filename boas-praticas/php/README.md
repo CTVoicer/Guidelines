@@ -4,12 +4,12 @@
 
 ## Sumário
 
-- [Visão Geral](#Vis%C3%A3o-Geral)
-- [Namespaces e Classes](#Namespaces-e-Classes)
-- [Classes, Constantes e Métodos](#Classes%2C-Constantes-e-M%C3%A9todos)
-- [Estrutura de controle](#Estrutura-de-controle)
+- [Visão Geral](#vis%C3%A3o-geral)
+- [Namespaces e Classes](#namespaces-e-classes)
+- [Classes, Constantes e Métodos](#classes-constantes-e-m%C3%A9todos)
+- [Estruturas de controle](#estruturas-de-controle)
 
-[[⬅ Voltar para Boas Práticas]](../boas-praticas)
+[[⬅ Voltar para Boas Práticas]](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas)
 
 ## Visão Geral
 
@@ -93,7 +93,7 @@ class FooBar
 
 [[⬆ Topo]](#sum%C3%A1rio)
 
-## Estrutura de controle
+## Estruturas de controle
 
 As regras gerais são as seguintes:
 

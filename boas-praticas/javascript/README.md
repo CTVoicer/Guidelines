@@ -11,7 +11,7 @@
 - [Arrays](#arrays)
 - [Referências](#refer%C3%AAncias)
 
-[[⬅ Voltar para Boas Práticas]](../boas-praticas)
+[[⬅ Voltar para Boas Práticas]](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas)
 
 ## Geral
 

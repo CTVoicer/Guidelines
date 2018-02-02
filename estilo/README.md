@@ -4,9 +4,9 @@
 
 ## Sumário
 
-- [Geral](./estilo/geral)
-- [CSS](./estilo/CSS)
-- [Javascript](./estilo/javascript)
-- [PHP](./estilo/PHP)
+- [Geral](https://github.com/VictorOtavio/Guidelines/tree/master/estilo/geral)
+- [CSS](https://github.com/VictorOtavio/Guidelines/tree/master/estilo/CSS)
+- [Javascript](https://github.com/VictorOtavio/Guidelines/tree/master/estilo/javascript)
+- [PHP](https://github.com/VictorOtavio/Guidelines/tree/master/estilo/PHP)
 
-[[⬅ Voltar para Guias]](../)
+[[⬅ Voltar para Guias]](https://github.com/VictorOtavio/Guidelines)
