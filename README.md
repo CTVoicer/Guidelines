@@ -28,6 +28,25 @@ Isso é possível porque nós usamos o [EditorConfig](http://editorconfig.org/) 
 
 Para isso basta instalar o plugin feito para o editor que você usa:  [Atom](https://github.com/sindresorhus/atom-editorconfig#readme), [SublimeText](https://github.com/sindresorhus/editorconfig-sublime#readme), [PHPStorm](https://plugins.jetbrains.com/plugin/7294), [Visual Studio Code](https://github.com/editorconfig/editorconfig-visualstudio#readme), [Vim](https://github.com/editorconfig/editorconfig-vim#readme), [Notepad++](https://github.com/editorconfig/editorconfig-notepad-plus-plus#readme) ou [outro editor](http://editorconfig.org/#download).
 
+## Sumário
+
+- [Estilo](./estilo)
+    - [Geral](./estilo/geral)
+    - [CSS](./estilo/CSS)
+    - [Javascript](./estilo/javascript)
+    - [PHP](./estilo/PHP)
+
+- [Boas práticas](./boas-praticas)
+    - [CSS](./boas-praticas/CSS)
+    - [Git](./boas-praticas/git)
+    - [Javascript](./boas-praticas/javascript)
+    - [PHP](./boas-praticas/php)
+
+- [Ferramentas](./ferramentas)
+    - [Geral](./ferramentas#geral)
+    - [Front-end](./ferramentas#front-end)
+    - [Back-end](./ferramentas#back-end)
+
 ## Créditos
 
 Estes guias são mantidos pela [CodeDev](https://www.codedev.com.br). Esta é uma adaptação de diversos outros guias para a nossa realidade. Algumas referências:
