@@ -4,12 +4,14 @@
 
 ## Sumário
 
-- [Formatação](#formata%C3%A7%C3%A3o)
-- [Nomenclatura](#nomenclatura)
-- [Manipulação do DOM](#manipula%C3%A7%C3%A3o-do-dom)
-- [Referências](#refer%C3%AAncias)
+- [JavaScript](#javascript)
+    - [Sumário](#sum%C3%A1rio)
+    - [Formatação](#formata%C3%A7%C3%A3o)
+    - [Nomenclatura](#nomenclatura)
+    - [Manipulação do DOM](#manipula%C3%A7%C3%A3o-do-dom)
+    - [Referências](#refer%C3%AAncias)
 
-[[⬅ Voltar para Estilo]](https://github.com/VictorOtavio/Guidelines/tree/master/estilo)
+[[⬅ Voltar para Estilo]](https://github.com/CTVoicer/Guidelines/tree/master/estilo)
 
 ## Formatação
 
@@ -148,7 +150,7 @@
 
 ## Manipulação do DOM
 
-- Use o prefixo `js-` nas classes de elementos selecionados pelo JavaScript. [(?)](https://github.com/csswizardry/CSS-Guidelines#js-hooks)
+- Use o prefixo `js-` nas classes de elementos selecionados pelo JavaScript. [(?)](https://github.com/csswizardry/css-Guidelines#js-hooks)
     ```javascript
     // ruim
     var $button = $('.button')

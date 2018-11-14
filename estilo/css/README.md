@@ -4,13 +4,15 @@
 
 ## Sumário
 
-- [Formatação](#formata%C3%A7%C3%A3o)
-- [Seletores](#seletores)
-- [Ordenação](#ordena%C3%A7%C3%A3o)
-- [Organização](#organiza%C3%A7%C3%A3o)
-- [Referências](#refer%C3%AAncias)
+- [CSS](#css)
+    - [Sumário](#sum%C3%A1rio)
+    - [Formatação](#formata%C3%A7%C3%A3o)
+    - [Seletores](#seletores)
+    - [Ordenação](#ordena%C3%A7%C3%A3o)
+    - [Organização](#organiza%C3%A7%C3%A3o)
+    - [Referências](#refer%C3%AAncias)
 
-[[⬅ Voltar para Estilo]](https://github.com/VictorOtavio/Guidelines/tree/master/estilo)
+[[⬅ Voltar para Estilo]](https://github.com/CTVoicer/Guidelines/tree/master/estilo)
 
 ## Formatação
 
@@ -178,7 +180,7 @@
     ```
 
 - Utilize um bom esquema para nomenclatura.
-    - Um bom esquema para nomear suas classes é essencial. O preferido é o [BEM](https://github.com/csswizardry/CSS-Guidelines#naming-conventions), que é bem explícito e de fácil entendimento.
+    - Um bom esquema para nomear suas classes é essencial. O preferido é o [BEM](https://github.com/csswizardry/css-Guidelines#naming-conventions), que é bem explícito e de fácil entendimento.
 
 - Utilize uma boa arquitetura.
     - [ITCSS](http://www.hugobessa.com.br/posts/ITCSS-uma-maneira-de-pensar-arquiteturas-css/) é uma ótima forma de pensar em como devemos arquitetar nossos estilos.
@@ -212,7 +214,7 @@
 
 ## Referências
 
-- [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines): Utilize estas diretrizes para escrever CSS da melhor forma. Grande parte deste guia foi baseado nele.
+- [CSS Guidelines](https://github.com/csswizardry/css-Guidelines): Utilize estas diretrizes para escrever CSS da melhor forma. Grande parte deste guia foi baseado nele.
 - [Guides por Thoughtbot](https://github.com/thoughtbot/guides/tree/master/style): Este guia também é uma adaptação do guides da Thoughtbot.
 
 [[⬆ Topo]](#sum%C3%A1rio)

@@ -4,13 +4,15 @@
 
 ## Sumário
 
-- [Formatação](#formata%C3%A7%C3%A3o)
-- [Seletores](#seletores)
-- [Ferramentas](#ferramentas)
-- [Dicas de leitura](#dicas-de-leitura)
-- [Referências](#refer%C3%AAncias)
+- [CSS](#css)
+    - [Sumário](#sum%C3%A1rio)
+    - [Formatação](#formata%C3%A7%C3%A3o)
+    - [Seletores](#seletores)
+    - [Ferramentas](#ferramentas)
+    - [Dicas de leitura](#dicas-de-leitura)
+    - [Referências](#refer%C3%AAncias)
 
-[[⬅ Voltar para Boas Práticas]](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas)
+[[⬅ Voltar para Boas Práticas]](https://github.com/CTVoicer/Guidelines/tree/master/boas-praticas)
 
 ## Formatação
 
@@ -133,7 +135,7 @@
 
 ## Referências
 
-- [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines): Utilize estas diretrizes para escrever CSS da melhor forma. Grande parte deste guia foi baseado nele.
+- [CSS Guidelines](https://github.com/csswizardry/css-Guidelines): Utilize estas diretrizes para escrever CSS da melhor forma. Grande parte deste guia foi baseado nele.
 - [Guides por Thoughtbot](https://github.com/thoughtbot/guides/tree/master/style): Este guia também é uma adaptação do Guides da Thoughtbot.
 
 [[⬆ Topo]](#sum%C3%A1rio)

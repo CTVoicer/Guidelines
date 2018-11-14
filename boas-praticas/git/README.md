@@ -4,13 +4,15 @@
 
 ## Sumário
 
-- [Mantendo um repositório](#mantendo-um-reposit%C3%B3rio)
-- [Commits](#commits)
-- [Fluxo](#fluxo)
-- [Dicas de leitura](#dicas-de-leitura)
-- [Referências](#refer%C3%AAncias)
+- [Git](#git)
+    - [Sumário](#sum%C3%A1rio)
+    - [Mantendo um repositório](#mantendo-um-reposit%C3%B3rio)
+    - [Commits](#commits)
+    - [Fluxo de trabalho](#fluxo-de-trabalho)
+    - [Dicas de leitura](#dicas-de-leitura)
+    - [Referências](#refer%C3%AAncias)
 
-[[⬅ Voltar para Boas Práticas]](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas)
+[[⬅ Voltar para Boas Práticas]](https://github.com/CTVoicer/Guidelines/tree/master/boas-praticas)
 
 ## Mantendo um repositório
 

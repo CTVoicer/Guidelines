@@ -4,14 +4,17 @@
 
 ## Sumário
 
-- [Geral](#geral)
-- [Variáveis](#vari%C3%A1veis)
-- [jQuery](#jquery)
-- [Objetos](#objetos)
-- [Arrays](#arrays)
-- [Referências](#refer%C3%AAncias)
+- [JavaScript](#javascript)
+    - [Sumário](#sum%C3%A1rio)
+    - [Geral](#geral)
+    - [Variáveis](#vari%C3%A1veis)
+    - [Condicionais](#condicionais)
+    - [Objetos](#objetos)
+    - [Arrays](#arrays)
+    - [jQuery](#jquery)
+    - [Referências](#refer%C3%AAncias)
 
-[[⬅ Voltar para Boas Práticas]](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas)
+[[⬅ Voltar para Boas Práticas]](https://github.com/CTVoicer/Guidelines/tree/master/boas-praticas)
 
 ## Geral
 
@@ -245,7 +248,7 @@
 ## Referências
 
 - [Coding Style por @LFeh](https://github.com/LFeh/coding-style#js): Uma parte dos exemplos daqui vieram deste ótimo guia por [@LFeh](https://github.com/LFeh).
-- [Javascript por @airbnb](https://github.com/airbnb/javascript): Um guia muito completo sobre como escrever bom JavaScript
+- [JavaScript por @airbnb](https://github.com/airbnb/javascript): Um guia muito completo sobre como escrever bom JavaScript
 - [[Livro] Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [[Livro] Build Better Applications with Coding and Design Patterns](http://shop.oreilly.com/product/9780596806767.do)
 

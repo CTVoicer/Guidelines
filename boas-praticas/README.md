@@ -4,9 +4,9 @@
 
 ## Sumário
 
-- [CSS](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/CSS)
-- [Git](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/git)
-- [Javascript](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/javascript)
-- [PHP](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas/php)
+- [CSS](https://github.com/CTVoicer/Guidelines/tree/master/boas-praticas/css)
+- [Git](https://github.com/CTVoicer/Guidelines/tree/master/boas-praticas/git)
+- [JavaScript](https://github.com/CTVoicer/Guidelines/tree/master/boas-praticas/javascript)
+- [PHP](https://github.com/CTVoicer/Guidelines/tree/master/boas-praticas/php)
 
-[[⬅ Voltar para Guias]](https://github.com/VictorOtavio/Guidelines)
+[[⬅ Voltar para Guias]](https://github.com/CTVoicer/Guidelines)

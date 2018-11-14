@@ -4,11 +4,13 @@
 
 ## Sumário
 
-- [Idioma](#idioma)
-- [Formatação](#formata%C3%A7%C3%A3o)
-- [Ordenação](#ordena%C3%A7%C3%A3o)
+- [Geral](#geral)
+    - [Sumário](#sum%C3%A1rio)
+    - [Idioma](#idioma)
+    - [Formatação](#formata%C3%A7%C3%A3o)
+    - [Ordenação](#ordena%C3%A7%C3%A3o)
 
-[[⬅ Voltar para Estilo]](https://github.com/VictorOtavio/Guidelines/tree/master/estilo)
+[[⬅ Voltar para Estilo]](https://github.com/CTVoicer/Guidelines/tree/master/estilo)
 
 ## Idioma
 
@@ -102,7 +104,7 @@
     }
     ```
 
-- Contudo, não use espaços depois de `(`, `[` ou antes de `]`, `)`  
+- Contudo, não use espaços depois de `(`, `[` ou antes de `]`, `)`
 (estou olhando pra vocês, desenvolvedores do WordPress).
 
     ```javascript
